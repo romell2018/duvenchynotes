@@ -1,0 +1,10 @@
+http://localhost:8000/
+http://localhost:3000/
+
+
+cd ~/edu-ai-app/backend
+source venv/bin/activate
+uvicorn main:app --reload
+
+cd ~/edu-ai-app/frontend/duvenchynotes
+npm start
