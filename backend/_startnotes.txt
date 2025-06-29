@@ -1,0 +1,6 @@
+cd ~/edu-ai-app/backend          # Go to your backend folder
+source venv/bin/activate        # Activate your Python virtual environment
+python3 app.py                  # Start the Flask backend
+
+
+ * Running on http://localhost:5000
